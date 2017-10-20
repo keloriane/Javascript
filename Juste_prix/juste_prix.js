@@ -52,5 +52,5 @@ var finale = true
     }
   }
 
-console.log("le prix était de " + random + "€")
-console.log("tu as essayé " + essais + " fois")
+document.write("le prix était de " + random + "€ <br/>");
+document.write("tu as essayé " + essais + " fois");
